@@ -2,6 +2,7 @@
   "name": "sis-server",
   "version": "1.0.0",
   "description": "Student Information System — Express Backend",
+  "type": "module",
   "main": "server.js",
   "scripts": {
     "start": "node server.js",
