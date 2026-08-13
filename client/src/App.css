@@ -116,6 +116,7 @@
 }
 
 .sidebar-nav a {
+  display: block;
   padding: 0.75rem 2rem;
   color: var(--text-secondary);
   font-weight: 500;
