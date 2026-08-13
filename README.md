@@ -524,7 +524,7 @@ It is intentionally not an enterprise Student Information System. The focus is o
 
 # 👨💻 Author
 
-Built as a MERN Stack College Mini Project.
+Built By Soham Kundu ❤️.
 
 **⭐ If You Like This Project**
 If this project helped you learn MERN fundamentals, consider giving the repository a ⭐ on GitHub.
@@ -541,4 +541,4 @@ If this project helped you learn MERN fundamentals, consider giving the reposito
 - 🟡 Deployment     Ready
 - 🟡 Viva           Ready
 
-Built with ❤️ using the MERN Stack.
+Built with Soham ❤️ using the MERN Stack.
