@@ -1,4 +1,4 @@
-# 🎓 Student Information System — MERN Mini Project
+# 🎓 Student Information System 
 
 > A modern, responsive, animated Student Information System built with the MERN stack using **JavaScript, React, Node.js, Express, MongoDB, and pure CSS**.
 
@@ -475,7 +475,7 @@ Before final submission, verify:
 
 ---
 
-# 🎤 Viva Demonstration Flow
+# 🎤 Demonstration Flow
 
 Recommended demonstration sequence:
 1. Open Application
@@ -524,7 +524,7 @@ It is intentionally not an enterprise Student Information System. The focus is o
 
 # 👨💻 Author
 
-Built By Soham Kundu ❤️.
+Built as a MERN Stack College Mini Project.
 
 **⭐ If You Like This Project**
 If this project helped you learn MERN fundamentals, consider giving the repository a ⭐ on GitHub.
@@ -539,6 +539,5 @@ If this project helped you learn MERN fundamentals, consider giving the reposito
 - 🟢 Animation      Complete
 - 🟢 Git/GitHub     Complete
 - 🟡 Deployment     Ready
-- 🟡 Viva           Ready
 
 Built with Soham ❤️ using the MERN Stack.
