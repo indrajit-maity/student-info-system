@@ -523,8 +523,7 @@ It is intentionally not an enterprise Student Information System. The focus is o
 ---
 
 # 👨💻 Author
-
-Built as a MERN Stack College Mini Project.
+Soham Kundu. ❤️
 
 **⭐ If You Like This Project**
 If this project helped you learn MERN fundamentals, consider giving the repository a ⭐ on GitHub.
