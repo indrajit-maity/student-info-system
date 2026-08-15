@@ -6,6 +6,9 @@ A college-level full-stack mini project demonstrating the complete development l
 
 The system supports **two separate experiences**:
 
+# Admin Email: admin@example.com
+# Admin Password: password123
+
 - 👨💼 **Admin Portal** — manage students and system data
 - 🎓 **Student Portal** — secure student login with a personalized dashboard *(Planned/Future Scope)*
 
