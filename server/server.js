@@ -50,7 +50,7 @@ app.get('/api/health', (req, res) => {
     message: 'Server is healthy',
     timestamp: new Date(),
   });
-});
+})
 
 // 404 handler
 app.use((req, res) => {
